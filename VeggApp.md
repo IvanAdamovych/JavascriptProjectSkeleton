@@ -10,8 +10,8 @@ Samuele Martinelli, Davide Masserdotti, Ivan Adamovych.
 ## Ruoli
 
 * PROJECT_MANAGER = Samuele Martinelli
-* DOCUMENTAZIONE = Ivan Adamovych
-* CSS = Davide Masserdotti
+* DOCUMENTAZIONE = Davide Masserdotti
+* CSS = Ivan Adamovych
 
 ## Regolamento
 * Ogni gruppo consegnerà il link ad un repository GIT che sarà un fork di questo progetto.
